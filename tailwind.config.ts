@@ -16,6 +16,7 @@ export default {
         waveLighter: "var(--waveLighter)",
         gray: "var(--gray)",
         gray200: "var(--gray-200)",
+        gray600: "var(--gray-600)",
       },
     },
   },
