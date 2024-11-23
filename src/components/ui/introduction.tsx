@@ -7,7 +7,7 @@ const Introduction = () => {
             <div className='flex flex-row mt-24 ml-20 mr-20 space-between gap-48 items-center mb-10'>
                 <div className='flex flex-col h-fit'>
                     <h1 className='text-6xl font-bold tracking-tighter'>Hi, I’m Capybarara 👋</h1>
-                    <h3 className='text-base mt-2'>
+                    <h3 className='text-base mt-2 leading-6'>
                         Known for its adorable appearance and friendly nature, the Capybarara is now embarking on a
                         journey to find a new job. Motivated by the desire to explore new opportunities and challenges,
                         the Capybarara is determined to utilize its unique skills and traits to secure a fulfilling

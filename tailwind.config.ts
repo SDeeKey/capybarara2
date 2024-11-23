@@ -17,6 +17,8 @@ export default {
         gray: "var(--gray)",
         gray200: "var(--gray-200)",
         gray600: "var(--gray-600)",
+        gray950: "var(--gray-950)",
+        gray500: "var(--gray-500)",
       },
     },
   },
