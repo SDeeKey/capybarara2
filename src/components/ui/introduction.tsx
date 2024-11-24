@@ -14,7 +14,7 @@ const Introduction = () => {
                         position!
                     </h3>
                     <div className='flex mt-12 justify-end'>
-                        <Button/>
+                        <Button title='I WANNA EMPLOY YOU!!!!' state='enable'/>
                     </div>
                 </div>
                 <img src='capybara.svg' alt='capybara'/>
