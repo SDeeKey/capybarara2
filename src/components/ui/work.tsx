@@ -4,7 +4,7 @@ import Tag from "@/components/ui/tag";
 
 const Work = () => {
     return (
-        <div className='flex flex-col items-center justify-center px-20 py-24 gap-12 border'>
+        <div className='flex flex-col items-center justify-center px-20 py-24 gap-12'>
             <div className='flex flex-col items-center justify-center mb-12'>
                 <h1 className='font-bold text-6xl tracking-tighter text-gray600 leading-72 mb-4'>Work</h1>
                 <h3 className='font-normal text-xl leading-7'>Some of the noteworthy projects Capibarara have
@@ -70,7 +70,7 @@ const Work = () => {
             <div className='flex flex-row items-start justify-center gap-y-12 shadow-md rounded-xl mx-16'>
                 <div
                     className='flex flex-col items-center justify-center p-12 border border-gray100 bg-gray50 rounded-bl-xl rounded-tl-xl'>
-                    <img className='shadow-lg' src="capybaraFacts.png" alt="capybaraFacts"/>
+                    <img className='shadow-lg' src="whatIsCapybara.png" alt="capybaraFacts"/>
                 </div>
                 <div className='flex flex-col items-start justify-center p-12 gap-y-6 '>
                     <h1 className='font-semibold text-xl leading-7 text-gray900'>What Is Capybara</h1>
