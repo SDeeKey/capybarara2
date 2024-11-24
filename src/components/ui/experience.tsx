@@ -10,7 +10,7 @@ const Experience = () => {
                         experiences:</h3>
                 </div>
                 <div className='grid grid-template-areas'>
-                    <div className='grid col-start-1 row-start-3 row-end-1 bg-white rounded-xl'>
+                    <div className='grid bg-white rounded-xl drop-shadow-md'>
                         <h3 className='font-normal text-base leading-6 text-gray950 pt-4 pb-4 pl-8 pr-8'>May 2020 -
                             Present</h3>
                         <h3 className='font-normal text-base leading-6 text-gray500 pt-4 pb-4 pl-8 pr-8'>Dec 2019 - May
@@ -18,7 +18,7 @@ const Experience = () => {
                         <h3 className='font-normal text-base leading-6 text-gray500 pt-4 pb-4 pl-8 pr-8'>May 2019 - Dec
                             2019</h3>
                     </div>
-                    <div className=' p-8 bg-white rounded-xl'>
+                    <div className=' p-8 bg-white rounded-xl drop-shadow-md'>
                         <div className='flex flex-row items-start gap-x-12'>
                             <img src="WsLogo.svg" alt="WsLogo"/>
                             <div className='grid grid-cols-1 row-start-1 row-end-1'>
