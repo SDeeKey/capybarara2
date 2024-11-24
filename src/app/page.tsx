@@ -2,8 +2,8 @@ import Header from "@/components/ui/header";
 import Introduction from "@/components/ui/introduction";
 import Skills from "@/components/ui/skills";
 import Experience from "@/components/ui/experience";
-import LinkIcon from "@/components/ui/linkIcon";
 import Work from "@/components/ui/work";
+import Testimonials from "@/components/ui/testimonials";
 
 export default function Home() {
   return (
@@ -13,6 +13,7 @@ export default function Home() {
         <Skills/>
         <Experience/>
         <Work/>
+        <Testimonials/>
     </div>
   );
 }
